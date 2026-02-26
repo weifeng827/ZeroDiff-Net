@@ -1,13 +1,8 @@
 # ZeroDiff-Net
 The code and the polarization dataset for the paper titled "ZeroDiff-Net: Polarization-Guided Zero-Shot Diffusion Network for Underwater Image Recovery"
-In our previous, we havae collected various underwater polarization images covering various water bodies. We have upload our dataset at   
-
-
-
-<img width="1224" height="1024" alt="left_25-11-25-13-08-35-951588_0" src="https://github.com/user-attachments/assets/9ca58e33-ec1c-4f8f-972b-eeafadaa0f1b" />
-
-<img width="1224" height="1024" alt="0438" src="https://github.com/user-attachments/assets/374b3559-cf5d-4818-be0b-e83529b37440" />
-
-<img width="1224" height="1024" alt="21-12-13-15-48-54-209250_0" src="https://github.com/user-attachments/assets/28257cab-9c77-4054-aaec-e4588e2b7ff2" />
-
-<img width="1224" height="1024" alt="0223" src="https://github.com/user-attachments/assets/ecb7f17f-93e3-4940-810a-256f91aa36b3" />
+In our previous, we havae collected various underwater polarization images covering various water bodies. We have upload our dataset at  Baidu Netdisk. Among them, the first link is a complete water tank scene dataset, the second link is a natural water body dataset, and the remaining links are partial datasets. Once the paper is accepted, all the remaining datasets and code will be uploaded.
+(1)https://pan.baidu.com/s/1PUMw69arEB7o0qnp73SuYg  code: be3e
+(2)https://pan.baidu.com/s/1iGQXkRE8BpBYdqZMoYnGgg  code: iqy2
+(3)https://pan.baidu.com/s/1TqB4U8n2cEb0g0FPgiDMYA  code: g6yy
+(4)https://pan.baidu.com/s/1kdSVV5xvsaUeXSLghLa8Rw  code: yyjr
+<img width="326" height="285" alt="image" src="https://github.com/user-attachments/assets/e8cc13fc-ec55-4e85-aa31-ed892021f069" />
