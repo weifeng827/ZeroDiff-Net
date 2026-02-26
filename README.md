@@ -10,4 +10,5 @@ In our previous, we havae collected various underwater polarization images cover
 
 (4)https://pan.baidu.com/s/1kdSVV5xvsaUeXSLghLa8Rw  code: yyjr
 
-<img width="326" height="285" alt="image" src="https://github.com/user-attachments/assets/e8cc13fc-ec55-4e85-aa31-ed892021f069" />
+
+![绘图1](https://github.com/user-attachments/assets/208a0685-9226-4c02-8828-cd76232358a4)
