@@ -1,7 +1,9 @@
 # ZeroDiff-Net
-The code and the polarization dataset for the paper titled "ZeroDiff-Net: Polarization-Guided Zero-Shot Diffusion Network for Underwater Image Recovery"
-In our previous, we havae collected various underwater polarization images covering various water bodies. We have upload our dataset at  Baidu Netdisk. 
-Among them, the first link is a complete water tank scene dataset, the second link is a natural water body dataset, and the remaining links are partial datasets. Once the paper is accepted, all the remaining datasets and code will be uploaded. The remaining ones include datasets used for underwater binocular stereo matching and photogrammetry.
+This repository contains the code and polarization dataset for the paper titled “ZeroDiff-Net: Polarization-Guided Zero-Shot Diffusion Network for Underwater Image Recovery.”
+
+Previously, we collected a variety of underwater polarization images covering diverse water bodies. The dataset is now available via Baidu Netdisk. The first link provides the complete tank scene dataset, the second link corresponds to the natural water body dataset, and the remaining links contain datasets with part polarization angles of 0° and 45. Once the paper is accepted, all remaining angles will be uploaded. Beside, we also constructed the underwater polarization dataset for underwater binocular stereo matching and photogrammetry, which will be uploaded with the remaining dataset.
+
+
 
 (1)https://pan.baidu.com/s/1PUMw69arEB7o0qnp73SuYg  code: be3e  
 
@@ -16,8 +18,9 @@ Among them, the first link is a complete water tank scene dataset, the second li
 
 
 ## Citation
-Please cite our preliminary work if you find it helpful to your research. Our latest results are currently being submitted for publication.❤️
+Please cite our preliminary work if you find it helpful to your research. Our latest results are currently being submitted for publication. ❤️
 
+```text
 @ARTICLE{11267091,
   author={Kong, Weifeng and Huo, Guanying and Peng, Chao and Su, Yong and Cheng, Zhen},
   journal={IEEE Transactions on Computational Imaging}, 
@@ -26,5 +29,6 @@ Please cite our preliminary work if you find it helpful to your research. Our la
   volume={11},
   number={},
   pages={1668-1681},
-  keywords={Estimation;Atmospheric modeling;Scattering;Filtering;Optical imaging;Mathematical models;Brightness;Optical scattering;Attenuation;Optical polarization;Low-rank decomposition;polarization-driven transmittance;underwater descattering;cross-domain generalization},
-  doi={10.1109/TCI.2025.3636757}}
+  doi={10.1109/TCI.2025.3636757}
+}
+```
