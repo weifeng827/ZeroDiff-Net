@@ -1,7 +1,7 @@
 # ZeroDiff-Net
 This repository contains the code and polarization dataset for the paper titled “ZeroDiff-Net: Polarization-Guided Zero-Shot Diffusion Network for Underwater Image Recovery.”
 
-Previously, we collected a variety of underwater polarization images covering diverse water bodies. The dataset is now available via Baidu Netdisk. The first link provides the complete tank scene dataset, the second link corresponds to the natural water body dataset, and the remaining links contain datasets with part polarization angles of 0° and 45. Once the paper is accepted, all remaining angles will be uploaded. Beside, we also constructed the underwater polarization dataset for underwater binocular stereo matching and photogrammetry, which will be uploaded with the remaining dataset.
+Previously, we collected a variety of underwater polarization images covering diverse water bodies. The dataset is now available via Baidu Netdisk. The first link provides the complete tank scene dataset with ground truth, the second link corresponds to the natural water body dataset, and the remaining links contain datasets with part polarization angles of 0° and 45. Once the paper is accepted, all remaining angles will be uploaded. Beside, we also constructed the underwater polarization dataset for underwater binocular stereo matching and photogrammetry, which will be uploaded with the remaining dataset.
 
 
 
